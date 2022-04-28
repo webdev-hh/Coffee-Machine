@@ -1,0 +1,6 @@
+int numOfRotations = scanner.nextInt();
+        numOfRotations=numOfRotations%array.length;
+
+Modulo operation can greatly simply the number of shifts required.
+
+int[] numArr = Arrays.stream(str.split(" ")).mapToInt(Integer::parseInt).toArray();

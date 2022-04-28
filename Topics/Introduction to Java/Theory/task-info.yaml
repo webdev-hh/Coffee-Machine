@@ -1,0 +1,35 @@
+type: theory
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+- name: src/Main.java
+  visible: true
+  learner_created: true
+- name: src/Main1.java
+  visible: true
+  learner_created: true
+- name: src/Main2.java
+  visible: true
+  learner_created: true
+- name: src/InputClass.java
+  visible: true
+  learner_created: true
+- name: src/Main3.java
+  visible: true
+  learner_created: true
+- name: src/Test.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/3500#comment
+status: Solved
+record: -1
+post_submission_on_open: true
